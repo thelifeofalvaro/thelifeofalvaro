@@ -1,6 +1,10 @@
-## Hi there 👋
+<h1 align="center"> 🧑🏽‍💻 Hola, soy Álvaro 🧑🏽‍💻 </h1>
+<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma & Data Analytics </h3>
 
 <!--
+https://github.com/dv-izquierdo/dv-izquierdo/tree/main
+https://github.com/IlsseCarta/IlsseCarta/tree/main
+
 **thelifeofalvaro/thelifeofalvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
