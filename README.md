@@ -1,6 +1,13 @@
 <h1 align="center"> 🧑🏽‍💻 Hola, soy Álvaro 🧑🏽‍💻 </h1>
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma & Data Analytics </h3>
 
+<!-- Encabezado con navegación rápida 
+<p align="right">
+  <a href="#español">Español</a> | 
+  <a href="#english">English</a>
+</p>
+-->
+
 <!--
 https://github.com/dv-izquierdo/dv-izquierdo/tree/main
 https://github.com/IlsseCarta/IlsseCarta/tree/main
