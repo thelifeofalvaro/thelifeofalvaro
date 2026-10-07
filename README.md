@@ -26,11 +26,11 @@ Esto me ha dado una perspectiva de negocio que intento trasladar ahora al ámbit
 
 ### Construir
 
-A través de DAM he trabajado en el desarrollo de aplicaciones con diferentes tecnologías y entornos, especialmente en proyectos relacionados.
+A través de DAM he trabajado en el desarrollo de aplicaciones con diferentes tecnologías y entornos.
 
 ### Analizar
 
-Mi formación en Data & Analytics me ha llevado a trabajar con:
+Mi formación en Data & Analytics me ha llevado a trabajar además con:
 
 - SQL y bases de datos relacionales.
 - Python y análisis exploratorio.
